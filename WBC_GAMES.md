@@ -9,7 +9,7 @@
 | Date | game_pk | Away | Home | Score | Venue | Status |
 |------|---------|------|------|-------|-------|--------|
 | 2026-03-06 | 788105 | Nicaragua | Dominican Republic | TBD | loanDepot park | Scheduled |
-| 2026-03-06 | 788110 | Netherlands | Venezuela | TBD | loanDepot park | Scheduled |
+| 2026-03-06 | 788110 | Netherlands | Venezuela | TBD | loanDepot park | Complete |
 | 2026-03-07 | 788107 | Israel | Venezuela | TBD | loanDepot park | Scheduled |
 | 2026-03-07 | 788108 | Nicaragua | Netherlands | TBD | loanDepot park | Scheduled |
 | 2026-03-08 | 788104 | Nicaragua | Israel | TBD | loanDepot park | Scheduled |
