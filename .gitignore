@@ -12,6 +12,7 @@ fetch_range.py
 # Log files
 *.log
 *.txt
+!requirements.txt
 
 # Python cache
 __pycache__/
