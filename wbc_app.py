@@ -19,7 +19,17 @@ st.set_page_config(
 )
 
 # ── DB connection ─────────────────────────────────────────────────────────────
-DB_URL = "postgresql+psycopg2://postgres:Manipura1@localhost:5432/wbc_db"
+_SUPABASE_FALLBACK = (
+    "postgresql://postgres.ygaxtltzrufjtzyclnos:PBMlApFSKUMVxJw2"
+    "@aws-1-ca-central-1.pooler.supabase.com:5432/postgres"
+)
+_raw_url = st.secrets.get("DATABASE_URL", _SUPABASE_FALLBACK)
+# Ensure SQLAlchemy psycopg2 dialect prefix
+DB_URL = (
+    _raw_url.replace("postgresql://", "postgresql+psycopg2://", 1)
+    if _raw_url.startswith("postgresql://") and "+psycopg2" not in _raw_url
+    else _raw_url
+)
 
 @st.cache_resource
 def get_engine():
