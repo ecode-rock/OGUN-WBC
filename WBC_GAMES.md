@@ -24,7 +24,7 @@
 | Date | game_pk | Away | Home | Score | Venue | Status |
 |------|---------|------|------|-------|-------|--------|
 | 2026-03-06 | 788128 | United States | Brazil | TBD | Daikin Park | Scheduled |
-| 2026-03-06 | 788129 | Mexico | Great Britain | TBD | Daikin Park | Scheduled |
+| 2026-03-06 | 788129 | Mexico | Great Britain | TBD | Daikin Park | Complete |
 | 2026-03-07 | 788126 | Brazil | Italy | TBD | Daikin Park | Scheduled |
 | 2026-03-07 | 788127 | Great Britain | United States | TBD | Daikin Park | Scheduled |
 | 2026-03-08 | 788124 | Great Britain | Italy | TBD | Daikin Park | Scheduled |
