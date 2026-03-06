@@ -54,7 +54,7 @@
 | Date | game_pk | Away | Home | Score | Venue | Status |
 |------|---------|------|------|-------|-------|--------|
 | 2026-03-06 | 788136 | Puerto Rico | Colombia | TBD | Hiram Bithorn Stadium | Scheduled |
-| 2026-03-06 | 788139 | Cuba | Panama | TBD | Hiram Bithorn Stadium | Scheduled |
+| 2026-03-06 | 788139 | Cuba | Panama | TBD | Hiram Bithorn Stadium | Complete |
 | 2026-03-07 | 788137 | Panama | Puerto Rico | TBD | Hiram Bithorn Stadium | Scheduled |
 | 2026-03-07 | 788138 | Colombia | Canada | TBD | Hiram Bithorn Stadium | Scheduled |
 | 2026-03-08 | 788134 | Panama | Canada | TBD | Hiram Bithorn Stadium | Scheduled |
