@@ -38,10 +38,10 @@
 
 | Date | game_pk | Away | Home | Score | Venue | Status |
 |------|---------|------|------|-------|-------|--------|
-| 2026-03-05 | 788115 | Czechia | Korea | TBD | Tokyo Dome | Scheduled |
-| 2026-03-05 | 788120 | Chinese Taipei | Australia | TBD | Tokyo Dome | Scheduled |
-| 2026-03-06 | 788114 | Japan | Chinese Taipei | TBD | Tokyo Dome | Scheduled |
-| 2026-03-06 | 788116 | Australia | Czechia | TBD | Tokyo Dome | Scheduled |
+| 2026-03-05 | 788115 | Czechia | Korea | TBD | Tokyo Dome | Complete |
+| 2026-03-05 | 788120 | Chinese Taipei | Australia | TBD | Tokyo Dome | Complete |
+| 2026-03-06 | 788114 | Japan | Chinese Taipei | TBD | Tokyo Dome | Complete |
+| 2026-03-06 | 788116 | Australia | Czechia | TBD | Tokyo Dome | Complete |
 | 2026-03-07 | 788117 | Chinese Taipei | Czechia | TBD | Tokyo Dome | Scheduled |
 | 2026-03-07 | 788118 | Korea | Japan | TBD | Tokyo Dome | Scheduled |
 | 2026-03-08 | 788109 | Australia | Japan | TBD | Tokyo Dome | Scheduled |
