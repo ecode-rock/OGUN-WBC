@@ -11,7 +11,7 @@
 | 2026-03-05 | 788120 | Chinese Taipei | Australia | 0-3 | Tokyo Dome | Complete |
 | 2026-03-05 | 788115 | Korea | Czechia | TBD | Tokyo Dome | Complete |
 | 2026-03-05 | 788116 | Czechia | Australia | TBD | Tokyo Dome | Complete |
-
+| 2026-03-06 | 788114 | Chinese Taipei | Japan | TBD | Tokyo Dome | Complete |
 ---
 
 ## Pool A — Miami, Florida
