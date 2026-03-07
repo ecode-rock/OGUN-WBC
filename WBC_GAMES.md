@@ -11,7 +11,7 @@
 | 2026-03-06 | 788105 | Nicaragua | Dominican Republic | TBD | loanDepot park | Scheduled |
 | 2026-03-06 | 788110 | Netherlands | Venezuela | TBD | loanDepot park | Complete |
 | 2026-03-07 | 788107 | Israel | Venezuela | TBD | loanDepot park | Scheduled |
-| 2026-03-07 | 788108 | Nicaragua | Netherlands | TBD | loanDepot park | Scheduled |
+| 2026-03-07 | 788108 | Nicaragua | Netherlands | TBD | loanDepot park | Complete |
 | 2026-03-08 | 788104 | Nicaragua | Israel | TBD | loanDepot park | Scheduled |
 | 2026-03-08 | 788106 | Netherlands | Dominican Republic | TBD | loanDepot park | Scheduled |
 | 2026-03-09 | 788099 | Venezuela | Nicaragua | TBD | loanDepot park | Scheduled |
@@ -23,7 +23,7 @@
 
 | Date | game_pk | Away | Home | Score | Venue | Status |
 |------|---------|------|------|-------|-------|--------|
-| 2026-03-06 | 788128 | United States | Brazil | TBD | Daikin Park | Scheduled |
+| 2026-03-06 | 788128 | United States | Brazil | TBD | Daikin Park | Complete |
 | 2026-03-06 | 788129 | Mexico | Great Britain | TBD | Daikin Park | Complete |
 | 2026-03-07 | 788126 | Brazil | Italy | TBD | Daikin Park | Scheduled |
 | 2026-03-07 | 788127 | Great Britain | United States | TBD | Daikin Park | Scheduled |
@@ -42,7 +42,7 @@
 | 2026-03-05 | 788120 | Chinese Taipei | Australia | TBD | Tokyo Dome | Complete |
 | 2026-03-06 | 788114 | Japan | Chinese Taipei | TBD | Tokyo Dome | Complete |
 | 2026-03-06 | 788116 | Australia | Czechia | TBD | Tokyo Dome | Complete |
-| 2026-03-07 | 788117 | Chinese Taipei | Czechia | TBD | Tokyo Dome | Scheduled |
+| 2026-03-07 | 788117 | Chinese Taipei | Czechia | TBD | Tokyo Dome | Complete |
 | 2026-03-07 | 788118 | Korea | Japan | TBD | Tokyo Dome | Scheduled |
 | 2026-03-08 | 788109 | Australia | Japan | TBD | Tokyo Dome | Scheduled |
 | 2026-03-08 | 788113 | Chinese Taipei | Korea | TBD | Tokyo Dome | Scheduled |
@@ -53,7 +53,7 @@
 
 | Date | game_pk | Away | Home | Score | Venue | Status |
 |------|---------|------|------|-------|-------|--------|
-| 2026-03-06 | 788136 | Puerto Rico | Colombia | TBD | Hiram Bithorn Stadium | Scheduled |
+| 2026-03-06 | 788136 | Puerto Rico | Colombia | TBD | Hiram Bithorn Stadium | Complete |
 | 2026-03-06 | 788139 | Cuba | Panama | TBD | Hiram Bithorn Stadium | Complete |
 | 2026-03-07 | 788137 | Panama | Puerto Rico | TBD | Hiram Bithorn Stadium | Scheduled |
 | 2026-03-07 | 788138 | Colombia | Canada | TBD | Hiram Bithorn Stadium | Scheduled |
