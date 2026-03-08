@@ -26,7 +26,7 @@
 | 2026-03-06 | 788128 | United States | Brazil | TBD | Daikin Park | Complete |
 | 2026-03-06 | 788129 | Mexico | Great Britain | TBD | Daikin Park | Complete |
 | 2026-03-07 | 788126 | Brazil | Italy | TBD | Daikin Park | Complete |
-| 2026-03-07 | 788127 | Great Britain | United States | TBD | Daikin Park | Scheduled |
+| 2026-03-07 | 788127 | Great Britain | United States | TBD | Daikin Park | Complete |
 | 2026-03-08 | 788124 | Great Britain | Italy | TBD | Daikin Park | Scheduled |
 | 2026-03-08 | 788125 | Brazil | Mexico | TBD | Daikin Park | Scheduled |
 | 2026-03-09 | 788122 | Mexico | United States | TBD | Daikin Park | Scheduled |
@@ -44,7 +44,7 @@
 | 2026-03-06 | 788116 | Australia | Czechia | TBD | Tokyo Dome | Complete |
 | 2026-03-07 | 788117 | Chinese Taipei | Czechia | TBD | Tokyo Dome | Complete |
 | 2026-03-07 | 788118 | Korea | Japan | TBD | Tokyo Dome | Complete |
-| 2026-03-08 | 788109 | Australia | Japan | TBD | Tokyo Dome | Scheduled |
+| 2026-03-08 | 788109 | Australia | Japan | TBD | Tokyo Dome | Complete |
 | 2026-03-08 | 788113 | Chinese Taipei | Korea | TBD | Tokyo Dome | Scheduled |
 | 2026-03-09 | 788112 | Korea | Australia | TBD | Tokyo Dome | Scheduled |
 | 2026-03-10 | 788111 | Czechia | Japan | TBD | Tokyo Dome | Scheduled |
