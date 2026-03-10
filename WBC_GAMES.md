@@ -47,7 +47,7 @@
 | 2026-03-08 | 788109 | Australia | Japan | TBD | Tokyo Dome | Complete |
 | 2026-03-08 | 788113 | Chinese Taipei | Korea | TBD | Tokyo Dome | Complete |
 | 2026-03-09 | 788112 | Korea | Australia | TBD | Tokyo Dome | Complete |
-| 2026-03-10 | 788111 | Czechia | Japan | TBD | Tokyo Dome | Scheduled |
+| 2026-03-10 | 788111 | Czechia | Japan | TBD | Tokyo Dome | Complete |
 
 ## Pool D — San Juan, Puerto Rico (Hiram Bithorn Stadium)
 
