@@ -10,11 +10,11 @@
 |------|---------|------|------|-------|-------|--------|
 | 2026-03-06 | 788105 | Nicaragua | Dominican Republic | TBD | loanDepot park | Complete |
 | 2026-03-06 | 788110 | Netherlands | Venezuela | TBD | loanDepot park | Complete |
-| 2026-03-07 | 788107 | Israel | Venezuela | TBD | loanDepot park | Scheduled |
+| 2026-03-07 | 788107 | Israel | Venezuela | TBD | loanDepot park | Complete |
 | 2026-03-07 | 788108 | Nicaragua | Netherlands | TBD | loanDepot park | Complete |
 | 2026-03-08 | 788104 | Nicaragua | Israel | TBD | loanDepot park | Complete |
 | 2026-03-08 | 788106 | Netherlands | Dominican Republic | TBD | loanDepot park | Complete |
-| 2026-03-09 | 788099 | Venezuela | Nicaragua | TBD | loanDepot park | Scheduled |
+| 2026-03-09 | 788099 | Venezuela | Nicaragua | TBD | loanDepot park | Complete |
 | 2026-03-09 | 788103 | Dominican Republic | Israel | TBD | loanDepot park | Complete |
 | 2026-03-10 | 788102 | Israel | Netherlands | TBD | loanDepot park | Scheduled |
 | 2026-03-11 | 788101 | Dominican Republic | Venezuela | TBD | loanDepot park | Scheduled |
@@ -29,7 +29,7 @@
 | 2026-03-07 | 788127 | Great Britain | United States | TBD | Daikin Park | Complete |
 | 2026-03-08 | 788124 | Great Britain | Italy | TBD | Daikin Park | Complete |
 | 2026-03-08 | 788125 | Brazil | Mexico | TBD | Daikin Park | Complete |
-| 2026-03-09 | 788122 | Mexico | United States | TBD | Daikin Park | Scheduled |
+| 2026-03-09 | 788122 | Mexico | United States | TBD | Daikin Park | Complete |
 | 2026-03-09 | 788123 | Brazil | Great Britain | TBD | Daikin Park | Complete |
 | 2026-03-10 | 788119 | Italy | United States | TBD | Daikin Park | Scheduled |
 | 2026-03-11 | 788121 | Italy | Mexico | TBD | Daikin Park | Scheduled |
@@ -45,7 +45,7 @@
 | 2026-03-07 | 788117 | Chinese Taipei | Czechia | TBD | Tokyo Dome | Complete |
 | 2026-03-07 | 788118 | Korea | Japan | TBD | Tokyo Dome | Complete |
 | 2026-03-08 | 788109 | Australia | Japan | TBD | Tokyo Dome | Complete |
-| 2026-03-08 | 788113 | Chinese Taipei | Korea | TBD | Tokyo Dome | Scheduled |
+| 2026-03-08 | 788113 | Chinese Taipei | Korea | TBD | Tokyo Dome | Complete |
 | 2026-03-09 | 788112 | Korea | Australia | TBD | Tokyo Dome | Complete |
 | 2026-03-10 | 788111 | Czechia | Japan | TBD | Tokyo Dome | Scheduled |
 
@@ -59,8 +59,8 @@
 | 2026-03-07 | 788138 | Colombia | Canada | TBD | Hiram Bithorn Stadium | Complete |
 | 2026-03-08 | 788134 | Panama | Canada | TBD | Hiram Bithorn Stadium | Complete |
 | 2026-03-08 | 788135 | Colombia | Cuba | TBD | Hiram Bithorn Stadium | Complete |
-| 2026-03-09 | 788131 | Cuba | Puerto Rico | TBD | Hiram Bithorn Stadium | Scheduled |
-| 2026-03-09 | 788133 | Colombia | Panama | TBD | Hiram Bithorn Stadium | Scheduled |
+| 2026-03-09 | 788131 | Cuba | Puerto Rico | TBD | Hiram Bithorn Stadium | Complete |
+| 2026-03-09 | 788133 | Colombia | Panama | TBD | Hiram Bithorn Stadium | Complete |
 | 2026-03-10 | 788132 | Canada | Puerto Rico | TBD | Hiram Bithorn Stadium | Scheduled |
 | 2026-03-11 | 788130 | Canada | Cuba | TBD | Hiram Bithorn Stadium | Scheduled |
 
