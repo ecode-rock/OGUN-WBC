@@ -72,7 +72,7 @@
 |------|---------|------|------|-------|-------|--------|
 | 2026-03-13 | 788095 | Korea | Dominican Republic | TBD | loanDepot park | Complete |
 | 2026-03-13 | 788100 | Canada | United States | TBD | Daikin Park | Complete |
-| 2026-03-14 | 788097 | Venezuela | Japan | TBD | loanDepot park | Scheduled |
+| 2026-03-14 | 788097 | Venezuela | Japan | TBD | loanDepot park | Complete |
 | 2026-03-14 | 788098 | Puerto Rico | Italy | TBD | Daikin Park | Complete |
 ## Semifinals
 
