@@ -70,16 +70,17 @@
 
 | Date | game_pk | Away | Home | Score | Venue | Status |
 |------|---------|------|------|-------|-------|--------|
-| 2026-03-13 | 788095 | Korea | Dominican Republic | TBD | loanDepot park | Complete |
+| 2026-03-13 | 788095 | Korea | Dominican Republic | 0-10 | loanDepot park | Complete |
 | 2026-03-13 | 788100 | Canada | United States | TBD | Daikin Park | Complete |
-| 2026-03-14 | 788097 | Venezuela | Japan | TBD | loanDepot park | Complete |
-| 2026-03-14 | 788098 | Puerto Rico | Italy | TBD | Daikin Park | Complete |
+| 2026-03-14 | 788097 | Venezuela | Japan | 8-5 | loanDepot park | Complete |
+| 2026-03-14 | 788098 | Puerto Rico | Italy | 6-8 | Daikin Park | Complete |
+
 ## Semifinals
 
 | Date | game_pk | Away | Home | Score | Venue | Status |
 |------|---------|------|------|-------|-------|--------|
-| 2026-03-15 | 788096 | QF1 Winner | QF2 Winner | TBD | loanDepot park | Scheduled |
-| 2026-03-16 | 788093 | QF3 Winner | QF4 Winner | TBD | loanDepot park | Scheduled |
+| 2026-03-15 | 788096 | United States | Dominican Republic | TBD | loanDepot park | Complete |
+| 2026-03-16 | 788093 | Italy | Venezuela | TBD | loanDepot park | Scheduled |
 
 ## Final
 
