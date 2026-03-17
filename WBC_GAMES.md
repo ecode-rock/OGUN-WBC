@@ -80,7 +80,7 @@
 | Date | game_pk | Away | Home | Score | Venue | Status |
 |------|---------|------|------|-------|-------|--------|
 | 2026-03-15 | 788096 | United States | Dominican Republic | TBD | loanDepot park | Complete |
-| 2026-03-16 | 788093 | Italy | Venezuela | TBD | loanDepot park | Scheduled |
+| 2026-03-16 | 788093 | Italy | Venezuela | TBD | loanDepot park | Complete |
 
 ## Final
 
