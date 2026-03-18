@@ -20,8 +20,8 @@ st.set_page_config(
 
 # ── DB connection ─────────────────────────────────────────────────────────────
 _SUPABASE_FALLBACK = (
-    "postgresql://postgres.ygaxtltzrufjtzyclnos:PBMlApFSKUMVxJw2"
-    "@aws-1-ca-central-1.pooler.supabase.com:5432/postgres"
+    "postgresql://postgres.ygaxtltzrufjtzyclnos:Ldi0an3R4X4iBGSM"
+    "@aws-1-ca-central-1.pooler.supabase.com:6543/postgres"
 )
 _raw_url = st.secrets.get("DATABASE_URL", _SUPABASE_FALLBACK)
 # Ensure SQLAlchemy psycopg2 dialect prefix
