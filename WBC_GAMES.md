@@ -86,7 +86,7 @@
 
 | Date | game_pk | Away | Home | Score | Venue | Status |
 |------|---------|------|------|-------|-------|--------|
-| 2026-03-17 | 788094 | SF1 Winner | SF2 Winner | TBD | loanDepot park | Scheduled |
+| 2026-03-17 | 788094 | Venezuela | United States | TBD | loanDepot park | Complete |
 
 ---
 
